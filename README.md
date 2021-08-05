@@ -34,7 +34,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Languages</b></td>
+      <td width="100px"><b>Languages</b></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></td>
@@ -46,7 +46,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Frameworks</b></td>
+      <td width="100px"><b>Frameworks</b></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
@@ -59,7 +59,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Programming</b></td>
+      <td width="100px"><b>Programming</b></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></td>
@@ -73,7 +73,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Design</b></td>
+      <td width="100px"><b>Design</b></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></td>
       <td><img width="75px" alt="Issues" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></td>
