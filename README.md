@@ -6,15 +6,11 @@
   <div align="left">
     <ul>
       <li>:mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**</li>
-      <li>:mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**</li>
-      <li>:mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**</li>
-      <li>:mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**</li>
+      <li>:mortar_board: And at the same time studying to **BSc.Eng in Computer Science**</li>
+      <li>:iphone: I’m currently working on an **AR application** for gamers</li>
+      <li>:video_game: And learning learning **Unity** at my spare time</li>
+       <li>:trophy: Likes most **sports** and competetions</li>
     </ul>
-    - :mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**
-    - :mortar_board: And at the same time studying to **BSc.Eng in Computer Science**
-    - :iphone: I’m currently working on an **AR application** for gamers
-    - :video_game: And learning learning **Unity** at my spare time
-    - :trophy: Likes most **sports** and competetions
   </div>
 
 </div>
