@@ -79,7 +79,9 @@
 
 ---
 
-![Hawkie's github stats](https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues)
+<div width="1000">
+  <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues"/>
+</div>
 
 
 [website]: https://hawkie.me
