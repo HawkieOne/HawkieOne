@@ -23,7 +23,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Frameworks</b></td>
+      <td><b>Languages</b></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></td>
@@ -42,6 +42,7 @@
       <td><img alt="Issues" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
