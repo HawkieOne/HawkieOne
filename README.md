@@ -6,9 +6,9 @@
 - :mortar_board: And at the same time studying to **BSc.Eng in Computer Science**
 - :iphone: I’m currently working on an **AR application** for gamers
 - :video_game: And learning learning **Unity** at my spare time
-- :trophy: Likes most **Unity** and competetions
+- :trophy: Likes most **sports** and competetions
 
---
+---
 
 ### Connect with me:
 [<img align="left" alt="hawkie.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +16,7 @@
 
 <br />
 
---
+---
 
 ### Stuff I use
 
@@ -71,7 +71,7 @@
   </tbody>
 </table>
 
---
+---
 
 ### My stats
 
