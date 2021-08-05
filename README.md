@@ -54,7 +54,7 @@
   <tbody>
     <tr>
       <td><a href=![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)</a></td>
-      <td>Hello</td>
+      <td><img alt="Issues" src="![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)"/></td>
       <td>Hello</td>
       <td>Hello</td>
     </tr>
