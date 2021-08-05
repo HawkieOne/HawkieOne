@@ -36,8 +36,8 @@
   <tbody>
     <tr>
       <td width="100px"><b>Languages</b></td>
-      <td><img width="75px" alt="Jav" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=#E06A00"/></td>
-      <td><img width="75px" alt="C#" src="https://img.shields.io/badge/c%23-%2300427E.svg?style=for-the-badge&logo=c-sharp&logoColor=#F7F7F7"/></td>
+      <td><img width="75px" alt="Jav" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=%23E06A00"/></td>
+      <td><img width="75px" alt="C#" src="https://img.shields.io/badge/c%23-%2300427E.svg?style=for-the-badge&logo=c-sharp&logoColor=%23F7F7F7"/></td>
       <td><img width="75px" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></td>
       <td><img width="75px" alt="Javscript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
     </tr>
@@ -63,7 +63,7 @@
       <td width="100px"><b>Programming</b></td>
       <td><img width="100px" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
       <td><img width="100px" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
-      <td><img width="100px" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-%232A2A28.svg?style=for-the-badge&logo=intellij-idea&logoColor=#blue"/></td>
+      <td><img width="100px" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-%232A2A28.svg?style=for-the-badge&logo=intellij-idea&logoColor=%23F62E5B"/></td>
       <td><img width="100px" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
     </tr>
   </tbody>
