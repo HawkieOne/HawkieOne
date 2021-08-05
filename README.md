@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hawkie.me">Hawkie</a></h1>
 
-  <!--[![Website](https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me)](https://hawkie.me)-->
   <a href="https://hawkie.me"><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/></a>
   <div align="left">
     <ul>
