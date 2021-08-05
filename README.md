@@ -48,7 +48,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Programming tools</b></td>
+      <td><b>Programming</b></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/></td>
@@ -62,7 +62,7 @@
 <table>
   <tbody>
     <tr>
-      <td><b>Design tools</b></td>
+      <td><b>Design</b></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></td>
