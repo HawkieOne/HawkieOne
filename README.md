@@ -43,6 +43,8 @@
     </tr>
   </tbody>
 </table>
+<img width="100px" alt="Java" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=%23E06A00"/>
+<img width="100px" alt="Java" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=%23E06A00"/>
 
 <table>
   <tbody>
