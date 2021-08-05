@@ -3,7 +3,7 @@
   <a href="https://hawkie.me"><img alt="Hawkie" src="emote.png" width="100px"/></a>
   
   <a href="https://hawkie.me"><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/></a>
-  <div align="left">
+  <div align="center">
     <ul>
       <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
       <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
