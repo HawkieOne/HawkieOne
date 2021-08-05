@@ -52,7 +52,7 @@
       <td><img width="75px" alt="node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
       <td><img width="75px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
       <td><img width="75px" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></td>
-      <td><img width="75px" alt="MySql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=grey"/></td>
+      <td><img width="75px" alt="MySql" src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=#00758F"/></td>
     </tr>
   </tbody>
 </table>
