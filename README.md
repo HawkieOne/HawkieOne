@@ -27,8 +27,7 @@
   </ul>
 </div>
 
-[What is this](emote.png)
-
+[<img align="left" alt="Håkan Lindahl | LinkedIn" width="22px" src="emote.png" />][linkedin]
 ## Stuff I use
 
 <table>
