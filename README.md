@@ -17,6 +17,10 @@
   
 ## Connect with me
 <table>
+  <thead>
+    <th>Portfolio</th>
+    <th>LinkedIn</th>
+  </thead>
   <tbody>
     <tr>
       <td><a href="https://hawkie.me"><img  alt="hawkie.me" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a></td>
