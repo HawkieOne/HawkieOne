@@ -27,6 +27,8 @@
   </ul>
 </div>
 
+[What is this](emote.png)
+
 ## Stuff I use
 
 <table>
