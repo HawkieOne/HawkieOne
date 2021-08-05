@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  Stuff I use:
+  <b>Stuff I use:</b>
 </p>
 
 <table>
@@ -81,10 +81,10 @@
 
 ---
 <p align="center">
-  My stats
+  <b>My stats</b>
 </p>
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues/640/300">
+  <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues">
 </p>
 
 
