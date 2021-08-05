@@ -14,15 +14,20 @@
 
 </div>
   
-## Connect with me:
+## Connect with me
 [<img align="left" alt="hawkie.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Håkan Lindahl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<div align="left">
+  <ul>
+    <li>Portfolio</li>
+    <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
+    <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
+    <li>:video_game: And learning learning <b>Unity</b> at my spare time</li>
+    <li>:trophy: Likes most <b>sports</b> and <b>competetions</b></li>
+  </ul>
+</div>
 
-<br />
-
----
-
-### Stuff I use
+## Stuff I use
 
 <table>
   <tbody>
