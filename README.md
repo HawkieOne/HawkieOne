@@ -24,7 +24,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://hawkie.me"><img  alt="hawkie.me" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a></td>
+      <td><a href="https://hawkie.me"><img  alt="hawkie.me" width="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe-%232585C2.svg" /></a></td>
       <td><a href="https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/"><img  alt="Håkan Lindahl | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></td>
     </tr>
   </tbody>
