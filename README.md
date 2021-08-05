@@ -16,17 +16,18 @@
 </div>
   
 ## Connect with me
-[<img align="left" alt="hawkie.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Håkan Lindahl | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<div align="left">
-  <ul>
-    <li>Portfolio</li>
-    <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
-    <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
-    <li>:video_game: And learning learning <b>Unity</b> at my spare time</li>
-    <li>:trophy: Likes most <b>sports</b> and <b>competetions</b></li>
-  </ul>
-</div>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Languages</b></td>
+      <td><a href="https://hawkie.me"><img align="left" alt="hawkie.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Stuff I use
 
