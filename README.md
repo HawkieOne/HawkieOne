@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me)](https://hawkie.me)
 
-- :iphone: I'm currently studying to M.Sc.Eng in Interaction Technology and Design
-- :computer: And at the same time studying to BSc.Eng in Computer Science
-- 🔭 I’m currently working on an AR application for gamers
-- 🌱 And learning learning Unity at my spare time
+- :mortar_board: I'm currently studying to M.Sc.Eng in Interaction Technology and Design
+- :mortar_board: And at the same time studying to BSc.Eng in Computer Science
+- :iphone: I’m currently working on an AR application for gamers
+- :video_game: And learning learning Unity at my spare time
 - :trophy: Likes most sports and competetions
 
 ---
@@ -31,10 +31,6 @@
 
 
 ### Design Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio/visual-studio.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 ---
 
 <details>
