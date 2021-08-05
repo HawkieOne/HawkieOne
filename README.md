@@ -18,9 +18,7 @@
 
 ---
 
-<p align="center">
-  <b>Stuff I use:</b>
-</p>
+### Stuff I use
 
 <table>
   <tbody>
@@ -80,9 +78,9 @@
 </table>
 
 ---
-<p align="center">
-  <b>My stats</b>
-</p>
+
+### My stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues">
 </p>
