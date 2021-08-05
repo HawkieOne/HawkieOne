@@ -79,9 +79,9 @@
 
 ---
 
-<div width="1000">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues"/>
-</div>
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues/640/300">
+</p>
 
 
 [website]: https://hawkie.me
