@@ -3,17 +3,17 @@
   <a href="https://hawkie.me"><img alt="Hawkie" src="emote.png" width="100px"/></a>
   
   <a href="https://hawkie.me"><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/></a>
+  
   <div align="left">
-    
-  </div>
-  <ul>
+    <ul>
       <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
       <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
       <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
       <li>:video_game: And learning learning <b>Unity</b> at my spare time</li>
       <li>:trophy: Likes most <b>sports</b> and <b>competetions</b></li>
     </ul>
-
+  </div>
+  
 </div>
   
 ## Connect with me
