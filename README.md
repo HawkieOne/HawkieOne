@@ -5,11 +5,11 @@
   <a href="https://hawkie.me"><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/></a>
   <div align="left">
     <ul>
-      <li>:mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**</li>
-      <li>:mortar_board: And at the same time studying to **BSc.Eng in Computer Science**</li>
-      <li>:iphone: I’m currently working on an **AR application** for gamers</li>
-      <li>:video_game: And learning learning **Unity** at my spare time</li>
-       <li>:trophy: Likes most **sports** and competetions</li>
+      <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
+      <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
+      <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
+      <li>:video_game: And learning learning <b>Unity</b> at my spare time</li>
+      <li>:trophy: Likes most <b>sports</b> and <b>competetions</b></li>
     </ul>
   </div>
 
