@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hawkie.me">Hawkie</a></h1>
-  <img alt="Hawkie" src="emote.png" />
+  <img alt="Hawkie" src="emote.png" width="100px"/>
   
   <a href="https://hawkie.me"><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/></a>
   <div align="left">
