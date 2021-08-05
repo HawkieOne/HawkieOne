@@ -32,8 +32,6 @@
   </tbody>
 </table>
 
----
-
 <table>
   <tbody>
     <tr>
@@ -46,8 +44,6 @@
     </tr>
   </tbody>
 </table>
-
----
 
 <table>
   <tbody>
@@ -62,8 +58,6 @@
     </tr>
   </tbody>
 </table>
-
----
 
 <table>
   <tbody>
