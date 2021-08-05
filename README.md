@@ -2,13 +2,13 @@
 
 [![Website](https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me)](https://hawkie.me)
 
-- :mortar_board: I'm currently studying to M.Sc.Eng in Interaction Technology and Design
-- :mortar_board: And at the same time studying to BSc.Eng in Computer Science
-- :iphone: I’m currently working on an AR application for gamers
-- :video_game: And learning learning Unity at my spare time
-- :trophy: Likes most sports and competetions
+- :mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**
+- :mortar_board: And at the same time studying to **BSc.Eng in Computer Science**
+- :iphone: I’m currently working on an **AR application** for gamers
+- :video_game: And learning learning **Unity** at my spare time
+- :trophy: Likes most **Unity** and competetions
 
----
+--
 
 ### Connect with me:
 [<img align="left" alt="hawkie.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -16,7 +16,7 @@
 
 <br />
 
----
+--
 
 ### Stuff I use
 
@@ -71,7 +71,7 @@
   </tbody>
 </table>
 
----
+--
 
 ### My stats
 
