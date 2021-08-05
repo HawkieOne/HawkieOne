@@ -1,13 +1,16 @@
-### Hi there, I'm Håkan - aka [Hawkie][website] 👋
+<div align="center">
+  ### Hi there, I'm Håkan - aka [Hawkie][website] 👋
 
-[![Website](https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me)](https://hawkie.me)
+  <!--[![Website](https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me)](https://hawkie.me)-->
+  <a><img src="https://img.shields.io/website?label=hawkie.me&style=for-the-badge&url=https%3A%2F%2Fhawkie.me"/>https://hawkie.me</a>
+  - :mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**
+  - :mortar_board: And at the same time studying to **BSc.Eng in Computer Science**
+  - :iphone: I’m currently working on an **AR application** for gamers
+  - :video_game: And learning learning **Unity** at my spare time
+  - :trophy: Likes most **sports** and competetions
 
-- :mortar_board: I'm currently studying to **M.Sc.Eng in Interaction Technology and Design**
-- :mortar_board: And at the same time studying to **BSc.Eng in Computer Science**
-- :iphone: I’m currently working on an **AR application** for gamers
-- :video_game: And learning learning **Unity** at my spare time
-- :trophy: Likes most **sports** and competetions
-
+</div>
+  
 ---
 
 ### Connect with me:
