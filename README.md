@@ -53,6 +53,7 @@
 <table>
   <tbody>
     <tr>
+      <td><b><p>Design tools</p></b></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobexd&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white"/></td>
       <td><img alt="Issues" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/></td>
