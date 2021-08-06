@@ -71,7 +71,7 @@
       <td><img width="100px" alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
       <td><img width="100px" alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/></td>
       <td><img width="100px" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-%232A2A28.svg?style=for-the-badge&logo=intellij-idea&logoColor=%23F62E5B"/></td>
-      <td><img width="100px" height="25px" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+      <td><img width="100px" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
     </tr>
   </tbody>
 </table>
