@@ -32,9 +32,10 @@
 
 ## Stuff I use
 
+#Languages
 <table>
   <tbody>
-    <tr>
+    <tr>  
       <!--<td width="100px"><b>Languages</b></td>-->
       <td><a><img width="100px" alt="Java" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=%23E06A00"/></a></td>
       <td><img width="100px" alt="C#" src="https://img.shields.io/badge/c%23-%2300427E.svg?style=for-the-badge&logo=c-sharp&logoColor=%23F7F7F7"/></td>
@@ -50,7 +51,7 @@
   <img alt="Javscript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>-->
 
-
+#Frameworks
 <table>
   <tbody>
     <tr>
@@ -64,6 +65,7 @@
   </tbody>
 </table>
 
+#Programming
 <table>
   <tbody>
     <tr>
@@ -76,6 +78,7 @@
   </tbody>
 </table>
 
+#Design
 <table>
   <tbody>
     <tr>
