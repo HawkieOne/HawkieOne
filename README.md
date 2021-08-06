@@ -52,13 +52,6 @@
   <img alt="Javscript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>-->
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
-
 ###### Frameworks
 
 <table>
