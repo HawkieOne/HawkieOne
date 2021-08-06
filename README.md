@@ -32,7 +32,8 @@
 
 ## Stuff I use
 
-#Languages
+###### Languages
+
 <table>
   <tbody>
     <tr>  
@@ -51,7 +52,8 @@
   <img alt="Javscript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>-->
 
-#Frameworks
+###### Frameworks
+
 <table>
   <tbody>
     <tr>
@@ -65,7 +67,8 @@
   </tbody>
 </table>
 
-#Programming
+###### Programming
+
 <table>
   <tbody>
     <tr>
@@ -78,7 +81,8 @@
   </tbody>
 </table>
 
-#Design
+###### Design
+
 <table>
   <tbody>
     <tr>
