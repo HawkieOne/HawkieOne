@@ -32,7 +32,7 @@
 
 ## Stuff I use
 
-###### Languages
+## Languages
 
 <table>
   <tbody>
