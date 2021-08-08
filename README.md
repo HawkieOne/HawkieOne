@@ -30,7 +30,7 @@
 
 ## Stuff I use
 
-##### Languages
+<!--##### Languages
 
 <table>
   <tbody>
@@ -74,20 +74,36 @@
 <table>
   <tbody>
     <tr>
-      <td>
-        <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
-      </td>
-      <td>
-        <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
-      </td>
-      <td>
-        <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
-      </td>
-      <td>
-        <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
-      </td>
+      <td> <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code></td>
+      <td> <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code></td>
+      <td> <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code> </td>
   </tbody>
-</table>
+</table>-->
+
+<div align="center">
+  <h3>Programming</h3>
+  <code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code>
+  <code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code>
+  <code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code>
+  <td><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code>
+</div>
+
+<div align="center">
+  <h3>Frameworks</h3>
+  <code><img width="50px" alt="React" src="images/react-original.svg"/></code>
+  <code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code>
+  <code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code>
+  <code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code>
+</div>
+
+<div align="center">
+  <h3>Languages</h3>
+  <code><img width="50px" alt="Java" src="images/java-plain.svg"/></code>
+  <code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code>
+  <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code>
+  <img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code>
+</div>
 
 <div align="center">
   <h3>Design</h3>
