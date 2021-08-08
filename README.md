@@ -84,18 +84,18 @@
 <table>
   <tbody>
     <tr>
-      <!--<td width="100px"><b>Design</b></td>-->
       <td>
-          <img width="100px" alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-          <p align="center">Adobe XD</p>
+        <code><img alt="AdobeXD" src="images/xd-plain.svg"/></code>
       </td>
       <td>
-        <code><img src="images/xd-plain.svg"/></code>
+        <code><img alt="Illustrator" src="images/illlustrator-plain.svg"/></code>
       </td>
-      <td><img width="100px" alt="Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=#F79500"/></td>
-      <td><img width="100px" alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#2FA3F7"/></td>
-      <td><img width="100px" alt="Figma" src="https://img.shields.io/badge/figma-%232C2C2C.svg?style=for-the-badge&logo=figma&logoColor=#0AC97F"/></td>
-    </tr>
+      <td>
+        <code><img alt="Photoshop" src="images/photoshop-plain.svg"/></code>
+      </td>
+      <td>
+        <code><img alt="Figma" src="images/figma-plain.svg"/></code>
+      </td>
   </tbody>
 </table>
 
