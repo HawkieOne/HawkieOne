@@ -38,7 +38,7 @@
       <td><code><img width="50px" alt="Java" src="images/java-plain.svg"/></code></td>
       <td><code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code></td>
       <td><code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="Javscript" src="images/javscript-original.svg"/></code></td>
+      <td><code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code></td>
     </tr>
   </tbody>
 </table>
