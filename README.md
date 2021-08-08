@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hawkie.me">Hawkie</a></h1>
-  <a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
+  <a href="https://hawkie.me"><img width="100px" alt="Hawkie" src="emote.png" /></a>
   <a href="www.linkedin.com/in/hakanlindahl"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
   
   <div align="left">
