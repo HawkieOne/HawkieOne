@@ -58,7 +58,6 @@
       <!--<td width="100px"><b>Frameworks</b></td>-->
       <td><img width="100px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
       <td><img width="100px" alt="node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
-      <t><i class="devicon-nodejs-plain"></i>
       <td><img width="100px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
       <td><img width="100px" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></td>
       <!--<td><img width="100px" alt="MySql" src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=%2300758F"/></td>-->
@@ -86,7 +85,7 @@
   <tbody>
     <tr>
       <!--<td width="100px"><b>Design</b></td>-->
-      <td><img width="100px" alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/><p>Adobe XD</p>/td>
+      <td><img width="100px" alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/><p>Adobe XD</p></td>
       <td><img width="100px" alt="Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=#F79500"/></td>
       <td><img width="100px" alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#2FA3F7"/></td>
       <td><img width="100px" alt="Figma" src="https://img.shields.io/badge/figma-%232C2C2C.svg?style=for-the-badge&logo=figma&logoColor=#0AC97F"/></td>
