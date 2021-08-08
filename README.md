@@ -111,7 +111,7 @@
 
 ---
 
-### My stats
+### Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues">
