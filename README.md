@@ -55,8 +55,8 @@
 <table>
   <tbody>
     <tr>
-      <td><code><img width="50px" alt="React" src="images/react-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="node.js" src="images/nodejs-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="React" src="images/react-original.svg"/></code></td>
+      <td><code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code></td>
       <td><code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code></td>
       <td><code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code></td>
     </tr>
