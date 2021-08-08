@@ -85,16 +85,16 @@
   <tbody>
     <tr>
       <td>
-        <code><img alt="AdobeXD" src="images/xd-plain.svg"/></code>
+        <code><img width="100px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
       </td>
       <td>
-        <code><img alt="Illustrator" src="images/illustrator-plain.svg"/></code>
+        <code><img width="100px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
       </td>
       <td>
-        <code><img alt="Photoshop" src="images/photoshop-plain.svg"/></code>
+        <code><img width="100px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
       </td>
       <td>
-        <code><img alt="Figma" src="images/figma-plain.svg"/></code>
+        <code><img  width="100px" alt="Figma" src="images/figma-plain.svg"/></code>
       </td>
   </tbody>
 </table>
