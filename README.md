@@ -100,7 +100,7 @@
 </table>
 <div>
   <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
-  <div width="50px"></div>
+  <p width="50px"></p>
   <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
   <div width="50px"></div>
   <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
