@@ -70,9 +70,9 @@
 <table>
   <tbody>
     <tr>
-      <td><code><img width="50px" alt="Visual Studio Code" src="images/visualstudio-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="IntelliJ" src="images/intellij-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code></td>
+      <td><code><img width="50px" alt="Visual Studio" src="images/-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code></td>
       <td><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code></td>
     </tr>
   </tbody>
@@ -97,15 +97,6 @@
       </td>
   </tbody>
 </table>
-<div>
-  <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
-  <p width="50px"></p>
-  <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
-  <div width="50px"></div>
-  <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
-  <div width="50px"></div>
-  <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
-</div>
 
 ---
 
