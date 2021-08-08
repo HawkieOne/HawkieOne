@@ -28,6 +28,13 @@
   </tbody>
 </table>
 
+<div align="center">
+  <h3>Portfolio</h3>
+  <code><img width="50px" alt="hawkie.me" src="emote.png"/></code>
+  <h3>LinekdIn</h3>
+  <code><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></code>
+</div>
+
 ## Stuff I use
 
 <!--##### Languages
