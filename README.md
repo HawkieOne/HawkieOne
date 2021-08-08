@@ -55,12 +55,10 @@
 <table>
   <tbody>
     <tr>
-      <!--<td width="100px"><b>Frameworks</b></td>-->
-      <td><img width="100px" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></td>
-      <td><img width="100px" alt="node.js" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/></td>
-      <td><img width="100px" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-      <td><img width="100px" alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/></td>
-      <!--<td><img width="100px" alt="MySql" src="https://img.shields.io/badge/mysql-%23FFFFFF.svg?style=for-the-badge&logo=mysql&logoColor=%2300758F"/></td>-->
+      <td><code><img width="50px" alt="React" src="images/react-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="node.js" src="images/nodejs-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code></td>
     </tr>
   </tbody>
 </table>
@@ -71,7 +69,7 @@
   <tbody>
     <tr>
       <td><code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code></td>
-      <td><code><img width="50px" alt="Visual Studio" src="images/-plain.svg"/></code></td>
+      <td><code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code></td>
       <td><code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code></td>
       <td><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code></td>
     </tr>
