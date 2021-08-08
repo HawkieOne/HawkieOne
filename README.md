@@ -3,6 +3,7 @@
   <a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
   <a href="www.linkedin.com/in/hakanlindahl"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
   
+  
   <div align="left">
     <ul>
       <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
