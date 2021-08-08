@@ -43,12 +43,12 @@
     </tr>
   </tbody>
 </table>
-<!--<p float="center">
+<p float="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%232585C2.svg?style=for-the-badge&logo=java&logoColor=%23E06A00"/>
   <img alt="C#" src="https://img.shields.io/badge/c%23-%2300427E.svg?style=for-the-badge&logo=c-sharp&logoColor=%23F7F7F7"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
   <img alt="Javscript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>-->
+</p>
 
 ###### Frameworks
 
