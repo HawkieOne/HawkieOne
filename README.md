@@ -90,7 +90,7 @@
           <p align="center">Adobe XD</p>
       </td>
       <td>
-        <code><img src="images/xd-plain"/></code>
+        <code><img src="images/xd-plain.svg"/></code>
       </td>
       <td><img width="100px" alt="Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23310000.svg?style=for-the-badge&logo=adobeillustrator&logoColor=#F79500"/></td>
       <td><img width="100px" alt="Photoshop" src="https://img.shields.io/badge/adobephotoshop-%23001D34.svg?style=for-the-badge&logo=adobephotoshop&logoColor=#2FA3F7"/></td>
