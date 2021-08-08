@@ -94,7 +94,7 @@
         <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
       </td>
       <td>
-        <code><img  width="50px" alt="Figma" src="images/figma-plain.svg"/></code>
+        <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
       </td>
   </tbody>
 </table>
