@@ -98,6 +98,12 @@
       </td>
   </tbody>
 </table>
+<div>
+  <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
+  <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
+  <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
+   <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
+</div>
 
 ---
 
