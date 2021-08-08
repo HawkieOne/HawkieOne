@@ -15,18 +15,6 @@
 </div>
   
 ## Connect with me
-<table>
-  <thead>
-    <th>Portfolio</th>
-    <th>LinkedIn</th>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://hawkie.me"><img  alt="hawkie.me" width="100px" src="emote.png" /></a></td>
-      <td><a href="https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/"><img  alt="Håkan Lindahl | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></td>
-    </tr>
-  </tbody>
-</table>
 
 <div align="center">
   <h3>Portfolio</h3>
