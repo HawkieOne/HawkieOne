@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm <a href="https://hawkie.me">Hawkie</a></h1>
-  <a href="https://hawkie.me"><img alt="Hawkie" src="emote.png" width="100px"/></a>
-  <code><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></code>
+  <a href="https://hawkie.me"><img width="100px" alt="Hawkie" src="emote.png" /></a>
+  <img width="10px" alt="LinkedIn" src="images/linkedin-original.svg"/>
   
   <div align="left">
     <ul>
