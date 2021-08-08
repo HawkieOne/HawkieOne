@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>Portfolio</h3>
-  <img width="50px" alt="hawkie.me" src="emote.png"/>
+  <img width="100px" alt="hawkie.me" src="emote.png"/>
   <h3>LinekdIn</h3>
   <code><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></code>
 </div>
