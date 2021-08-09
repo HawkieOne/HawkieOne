@@ -104,8 +104,6 @@
   <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
 </div>
 
----
-
 ## Connect with me
 
 <p>Press the icons</p>
