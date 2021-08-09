@@ -111,7 +111,7 @@
 <a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
 <a href="www.linkedin.com/in/hakanlindahl"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
 
-### Stats
+## Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues">
