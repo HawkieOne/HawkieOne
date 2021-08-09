@@ -17,13 +17,6 @@
   </div>
   
 </div>
-
-## Connect with me
-
-<p>Press the icons</p>
-
-<a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
-<a href="www.linkedin.com/in/hakanlindahl"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
   
 ## Tools
 
@@ -112,6 +105,13 @@
 </div>
 
 ---
+
+## Connect with me
+
+<p>Press the icons</p>
+
+<a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
+<a href="www.linkedin.com/in/hakanlindahl"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
 
 ### Stats
 
