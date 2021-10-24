@@ -11,7 +11,7 @@
       <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
       <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
       <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
-      <li>:video_game: And learning learning <b>Unity</b> at my spare time</li>
+      <li>:video_game: And learning learning <b>Unity</b> in my spare time</li>
       <li>:trophy: Likes most <b>sports</b> and <b>competetions</b></li>
     </ul>
   </div>
