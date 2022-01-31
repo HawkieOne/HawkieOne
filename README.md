@@ -26,10 +26,10 @@
 <table>
   <tbody>
     <tr>  
+      <td><code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code></td>
+      <td><code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code></td>
       <td><code><img width="50px" alt="Java" src="images/java-plain.svg"/></code></td>
       <td><code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code></td>
-      <td><code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code></td>
     </tr>
   </tbody>
 </table>
@@ -74,10 +74,10 @@
 
 <div align="center">
   <h3>Languages</h3>
+  <code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code>
+  <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code>
   <code><img width="50px" alt="Java" src="images/java-plain.svg"/></code>
   <code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code>
-  <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code>
-  <code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code>
 </div>
 
 <div align="center">
