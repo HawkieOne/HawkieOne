@@ -74,35 +74,45 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <code><img width="50px" alt="Javscript" src="images/javascript-original.svg"/></code>
-  <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code>
-  <code><img width="50px" alt="Java" src="images/java-plain.svg"/></code>
-  <code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code>
+  <a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
+     <code>
+       <img width="50px" alt="Javscript" src="images/javascript-original.svg"/>
+      </code>
+  </a>
+  <a href="https://dart.dev/"> <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code></a>
+  <a href="https://www.java.com/sv/"><code><img width="50px" alt="Java" src="images/java-plain.svg"/></code></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code></a>
 </div>
 
 <div align="center">
   <h3>Frameworks</h3>
-  <code><img width="50px" alt="React" src="images/react-original.svg"/></code>
-  <code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code>
-  <code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code>
-  <code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code>
+  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
+     <code><img width="50px" alt="React" src="images/react-original.svg"/></code>
+  </a>
+  <a href="https://nodejs.org/en/"><code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code></a>
+  <a href="https://getbootstrap.com/"><code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code></a>
+  <a href="https://flutter.dev/"><code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code></a>
 </div>
 
 <div align="center">
   <h3>Programming</h3>
-  <code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code>
-  <code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code>
-  <code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code>
-  <td><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+     <code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code>
+  </a>
+  <a href="https://visualstudio.microsoft.com/"><code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code></a>
+  <a href="https://www.jetbrains.com/idea/"><code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code></a>
+  <a href="https://git-scm.com/"><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code></a>
 </div>
 
 
 <div align="center">
   <h3>Design</h3>
-  <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
-  <code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code>
-  <code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code>
-  <code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code>
+  <a href="https://www.adobe.com/se/products/xd.html" target="_blank" rel="noopener noreferrer">
+     <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
+  </a>
+  <a href="https://www.adobe.com/se/products/illustrator.html"><code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code></a>
+  <a href="https://www.adobe.com/se/products/photoshop.html"><code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code></a>
+  <a href="https://www.figma.com/"><code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code></a>
 </div>
 
 ## Connect with me
