@@ -120,7 +120,7 @@
 <div align="center">
   <p>Press the icons</p>
 
-  <a href="https://hawkie.me"><img width="50px" alt="Hawkie" src="emote.png" /></a>
+  <a href="https://hakanlindahl.com/"><img width="50px" alt="Hawkie" src="emote.png" /></a>
   <a href="https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
 </div>
 
