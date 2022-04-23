@@ -3,7 +3,7 @@
   <h1>Hi there, I'm <a href="https://hawkie.me">Hawkie</a></h1>
   
   <p></p>
-  <a href="https://hawkie.me"><img width="100px" alt="Hawkie" src="emote.png" /></a>
+  <a href="https://hakanlindahl.com/"><img width="100px" alt="Hawkie" src="emote.png" /></a>
   <p></p>
   
   <div align="left">
