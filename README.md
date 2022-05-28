@@ -11,8 +11,7 @@
       <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
       <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
       <li>:desktop_computer: My focus is mainly in <b>frontend development</b></li>
-      <li>:iphone: I’m currently working on an <b>AR application</b> for gamers</li>
-      <li>:video_game: And learning learning <b>Unity</b> in my spare time</li>
+      <li>:video_game: And learning <b>Unity</b> in my spare time</li>
       <li>:trophy: Likes most <b>sports</b> and <b>competetitions</b></li>
     </ul>
   </div>
@@ -90,7 +89,7 @@
      <code><img width="50px" alt="React" src="images/react-original.svg"/></code>
   </a>
   <a href="https://nodejs.org/en/"><code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code></a>
-  <a href="https://getbootstrap.com/"><code><img width="50px" alt="Bootstrap" src="images/bootstrap-plain.svg"/></code></a>
+  <a href="https://tailwindcss.com/"><code><img width="50px" alt="Tailwind" src="images/tailwind-plain.png"/></code></a>
   <a href="https://flutter.dev/"><code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code></a>
 </div>
 
