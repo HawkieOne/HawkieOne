@@ -73,11 +73,6 @@
 
 <div align="center">
   <h3>Languages</h3>
-  #<a href="https://www.javascript.com/" target="_blank" rel="noopener noreferrer">
-     #<code>
-       #<img width="50px" alt="Javscript" src="images/javascript-original.svg"/>
-      #</code>
-  #</a>
   <a href="https://www.typescriptlang.org/">
     <code>
       <img width="50px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
