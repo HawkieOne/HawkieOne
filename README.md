@@ -8,11 +8,11 @@
   
   <div align="left">
     <ul>
-      <li>:mortar_board: I'm currently studying to <b>M.Sc.Eng in Interaction Technology and Design</b></li>
-      <li>:mortar_board: And at the same time studying to <b>BSc.Eng in Computer Science</b></li>
-      <li>:desktop_computer: My focus is mainly in <b>frontend development</b></li>
-      <li>:video_game: And learning <b>Unity</b> in my spare time</li>
-      <li>:trophy: Likes most <b>sports</b> and <b>competetitions</b></li>
+      <li>:mortar_board: Degree in <b>M.Sc.Eng in Interaction Technology and Design</b></li>
+      <li>:mortar_board: Degree in <b>BSc.Eng in Computer Science</b></li>
+      <li>:desktop_computer: My focus is currently in <b>Android development</b></li>
+      <li>:video_game: but I like most tech stacks and mainly <b>frontend</b> development</li>
+      <li>:trophy: Also quite fond of <b>climbing</b> and <b>cross-country skiing</b></li>
     </ul>
   </div>
   
@@ -92,6 +92,9 @@
 
 <div align="center">
   <h3>Programming</h3>
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+     <code><img width="50px" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></code>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
      <code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code>
   </a>
@@ -119,13 +122,6 @@
   <a href="https://hakanlindahl.com/"><img width="50px" alt="Hawkie" src="emote.png" /></a>
   <a href="https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/"><img width="50px" alt="LinkedIn" src="images/linkedin-original.svg"/></a>
 </div>
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hawkieone&show_icons=true&theme=dracula&hide=stars,issues">
-</p>
-
 
 [website]: https://hawkie.me
 [linkedin]: https://www.linkedin.com/in/h%C3%A5kan-lindahl-3a0427153/
