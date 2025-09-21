@@ -102,7 +102,7 @@
     <code><img width="50px" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/></code>
   </a>
   <a href="https://tailwindcss.com/">
-    <code><img width="50px" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/></code>
+    <code><img width="50px" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/></code>
   </a>
   <a href="https://flutter.dev/">
     <code><img width="50px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></code>
@@ -115,11 +115,17 @@
      <code><img width="50px" alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"/></code>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
-     <code><img width="50px" alt="Visual Studio Code" src="images/vscode-original.svg"/></code>
+     <code><img width="50px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/></code>
   </a>
-  <a href="https://visualstudio.microsoft.com/"><code><img width="50px" alt="Visual Studio" src="images/visualstudio-plain.svg"/></code></a>
-  <a href="https://www.jetbrains.com/idea/"><code><img width="50px" alt="IntelliJ" src="images/intellij-original.svg"/></code></a>
-  <a href="https://git-scm.com/"><code><img width="50px" alt="Git" src="images/git-plain.svg"/></code></a>
+  <a href="https://visualstudio.microsoft.com/">
+    <code><img width="50px" alt="Visual Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"/></code>
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <code><img width="50px" alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></code>
+  </a>
+  <a href="https://git-scm.com/"><code>
+    <img width="50px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
+  </a>
 </div>
 
 
