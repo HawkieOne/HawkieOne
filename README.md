@@ -132,11 +132,17 @@
 <div align="center">
   <h3>Design</h3>
   <a href="https://www.adobe.com/se/products/xd.html" target="_blank" rel="noopener noreferrer">
-     <code><img width="50px" alt="AdobeXD" src="images/xd-plain.svg"/></code>
+     <code><img width="50px" alt="AdobeXD" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg"/></code>
   </a>
-  <a href="https://www.adobe.com/se/products/illustrator.html"><code><img width="50px" alt="Illustrator" src="images/illustrator-plain.svg"/></code></a>
-  <a href="https://www.adobe.com/se/products/photoshop.html"><code><img width="50px" alt="Photoshop" src="images/photoshop-plain.svg"/></code></a>
-  <a href="https://www.figma.com/"><code><img  width="50px" alt="Figma" src="images/figma-original.svg"/></code></a>
+  <a href="https://www.adobe.com/se/products/illustrator.html">
+    <code><img width="50px" alt="Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-original.svg"/></code>
+  </a>
+  <a href="https://www.adobe.com/se/products/photoshop.html">
+    <code><img width="50px" alt="Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/></code>
+  </a>
+  <a href="https://www.figma.com/">
+    <code><img  width="50px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/></code>
+  </a>
 </div>
 
 ## Connect with me
