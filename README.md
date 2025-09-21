@@ -11,7 +11,7 @@
       <li>:mortar_board: Degree in <b>M.Sc.Eng in Interaction Technology and Design</b></li>
       <li>:mortar_board: Degree in <b>BSc.Eng in Computer Science</b></li>
       <li>:desktop_computer: My focus is currently in <b>Android development</b></li>
-      <li>:video_game: but I like most tech stacks and mainly <b>frontend</b> development</li>
+      <li>:video_game: But I like most tech stacks and mainly <b>frontend</b> development</li>
       <li>:trophy: Also quite fond of <b>climbing</b> and <b>cross-country skiing</b></li>
     </ul>
   </div>
@@ -96,11 +96,17 @@
 <div align="center">
   <h3>Frameworks</h3>
   <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-     <code><img width="50px" alt="React" src="images/react-original.svg"/></code>
+     <code><img width="50px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/></code>
   </a>
-  <a href="https://nodejs.org/en/"><code><img width="50px" alt="node.js" src="images/nodejs-original.svg"/></code></a>
-  <a href="https://tailwindcss.com/"><code><img width="50px" alt="Tailwind" src="images/tailwind-plain.png"/></code></a>
-  <a href="https://flutter.dev/"><code><img width="50px" alt="Flutter" src="images/flutter-plain.svg"/></code></a>
+  <a href="https://nodejs.org/en/">
+    <code><img width="50px" alt="node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/></code>
+  </a>
+  <a href="https://tailwindcss.com/">
+    <code><img width="50px" alt="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"/></code>
+  </a>
+  <a href="https://flutter.dev/">
+    <code><img width="50px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/></code>
+  </a>
 </div>
 
 <div align="center">
