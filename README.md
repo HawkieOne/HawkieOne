@@ -123,8 +123,8 @@
   <a href="https://www.jetbrains.com/idea/">
     <code><img width="50px" alt="IntelliJ" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"/></code>
   </a>
-  <a href="https://git-scm.com/"><code>
-    <img width="50px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
+   <a href="https://git-scm.com/">
+    <code><img width="50px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/></code>
   </a>
 </div>
 
