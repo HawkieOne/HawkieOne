@@ -73,11 +73,24 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <a href="https://dart.dev/"> <code><img width="50px" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code></a>
-  <a href="https://dart.dev/"> <code><img width="50px" alt="Dart" src="images/javascript-original.svg"/></code></a>
-  <a href="https://dart.dev/"> <code><img width="50px" alt="Dart" src="images/dart-plain.svg"/></code></a>
-  <a href="https://www.java.com/sv/"><code><img width="50px" alt="Java" src="images/java-plain.svg"/></code></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><code><img width="50px" alt="C#" src="images/csharp-plain.svg"/></code></a>
+  <a href="https://kotlinlang.org//"> 
+    <code><img width="50px" alt="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"/></code>
+  </a>
+  <a href="https://www.typescriptlang.org/"> 
+    <code><img width="50px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/></code>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <code><img width="50px" alt="JavScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/></code>
+  </a>
+  <a href="https://dart.dev/">
+    <code><img width="50px" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/></code>
+  </a>
+  <a href="https://www.java.com/sv/">
+    <code><img width="50px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/></code>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <code><img width="50px" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"/></code>
+  </a>
 </div>
 
 <div align="center">
